@@ -811,16 +811,16 @@ body {
       background-repeat: no-repeat;
       background-position: center;
       &-1 {
-         background-image: url(/img/slide1.jpg);
+         background-image: url("img/slide1.jpg");
       }
       &-2 {
-         background-image: url(/img/slide2.png);
+         background-image: url("img/slide2.png");
       }
       &-3 {
-         background-image: url(/img/slide3.jpg);
+         background-image: url("img/slide3.jpg");
       }
       &-4 {
-         background-image: url(/img/slide3.jpg);
+         background-image: url("img/slide3.jpg");
       }
    }
 
@@ -877,7 +877,7 @@ body {
          display: block;
          width: 24px;
          height: 24px;
-         background-image: url("/img/arrow-right-long.svg");
+         background-image: url("img/arrow-right-long.svg");
          background-repeat: no-repeat;
          background-position: center;
          margin: 0px 0px 0px 90px;
@@ -1142,16 +1142,16 @@ body {
       background-size: cover;
       background-position: center;
       &-1 {
-         background-image: url("/img/rooms-swiper-slide.png");
+         background-image: url("img/rooms-swiper-slide.png");
       }
       &-2 {
-         background-image: url("/img/rooms-swiper-slide.png");
+         background-image: url("img/rooms-swiper-slide.png");
       }
       &-3 {
-         background-image: url("/img/rooms-swiper-slide.png");
+         background-image: url("img/rooms-swiper-slide.png");
       }
       &-4 {
-         background-image: url("/img/rooms-swiper-slide.png");
+         background-image: url("img/rooms-swiper-slide.png");
       }
    }
 
