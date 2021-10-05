@@ -811,16 +811,16 @@ body {
       background-repeat: no-repeat;
       background-position: center;
       &-1 {
-         background-image: url("img/slide1.jpg");
+         background-image: url("/img/slide1.jpg");
       }
       &-2 {
-         background-image: url("img/slide2.png");
+         background-image: url("/img/slide2.png");
       }
       &-3 {
-         background-image: url("img/slide3.jpg");
+         background-image: url("/img/slide3.jpg");
       }
       &-4 {
-         background-image: url("img/slide3.jpg");
+         background-image: url("/img/slide3.jpg");
       }
    }
 
